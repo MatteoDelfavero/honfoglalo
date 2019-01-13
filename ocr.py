@@ -1,6 +1,7 @@
 # Matteo Delfavero jan.2019
 # honfoglalo.hu
 
+
 from time import gmtime, strftime
 from bs4 import BeautifulSoup
 from pathlib import Path
