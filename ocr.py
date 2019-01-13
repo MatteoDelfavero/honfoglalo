@@ -1,7 +1,6 @@
 # Matteo Delfavero jan.2019
 # honfoglalo.hu
 
-
 from time import gmtime, strftime
 from bs4 import BeautifulSoup
 from pathlib import Path
@@ -13,7 +12,6 @@ import os
 
 # pytesseract.pytesseract.tesseract_cmd = r'<full_path_to_your_tesseract_executable>'
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files (x86)\Tesseract-OCR\tesseract'
-
 debug = 1
 
 def log(question, answer, filename):
@@ -21,11 +19,10 @@ def log(question, answer, filename):
     if debug:
         with open('log/log.txt', 'a', encoding='utf-8') as file:
             file.writelines(string)
-
     print(string)
 
 def OCRimage():
-    #     (x,   y,  width,  height)
+    #   (x,   y,  width,  height)
     pos = (185, 720, 955, 200)
     filename = "honfoglalo " + strftime("%Y-%m-%d %H_%M_%S", gmtime()) + ".jpg"
     return pytesseract.image_to_string(pyautogui.screenshot(imageFilename="log/" + filename, region=(pos))), filename
@@ -42,3 +39,4 @@ def main(args):
 
 if __name__ == '__main__':
     main(OCRimage())
+    print("end")

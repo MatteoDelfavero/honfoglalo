@@ -4,9 +4,9 @@ Question:
 "Legfeljebb hany iuitésre van lehetoség egy
 bridzspartiban?"
 
- Answer: 
+ Answer:
 
-"szemű gyereknek legalább hány cukrot kell kivenni ahhoz, hogy biztosan legyen 
+"szemű gyereknek legalább hány cukrot kell kivenni ahhoz, hogy biztosan legyen
 közöttük ... Legfeljebb hány különböző színű golyó lehet a dobozban? 8."
 
 
@@ -16,11 +16,11 @@ Question:
 "Hanyadik Balaton Sound fesztivalt tartottak
 2016-ban?"
 
- Answer: 
+ Answer:
 
-"A Balaton Sound (szponzorációs okokból más néven 2007 és 2012 között 
-Heineken Balaton Sound ... A fesztivált a Sziget Fesztivál produkciós irodája 
-szervezi. ... 2016-ban 157 000-en látogattak el a rendezvényre, ez pedig rekordot 
+"A Balaton Sound (szponzorációs okokból más néven 2007 és 2012 között
+Heineken Balaton Sound ... A fesztivált a Sziget Fesztivál produkciós irodája
+szervezi. ... 2016-ban 157 000-en látogattak el a rendezvényre, ez pedig rekordot
 jelentett."
 
 
@@ -33,11 +33,11 @@ internetet biztositson Magyarorszag
 legelmaradottabb térségeinek?
 yoy"
 
- Answer: 
+ Answer:
 
-"A Wifi-falu programot elindító Internet Terjesztéséért Alapítvány 2008 elejétől ... A 
-program célja, hogy Magyarország legelmaradottabb térségeinek lakóit ... A 
-projekt először a Borsod-Abaúj-Zemplén megyei Cserehát vidékén indult el, de 
+"A Wifi-falu programot elindító Internet Terjesztéséért Alapítvány 2008 elejétől ... A
+program célja, hogy Magyarország legelmaradottabb térségeinek lakóit ... A
+projekt először a Borsod-Abaúj-Zemplén megyei Cserehát vidékén indult el, de
 már ..."
 
 
@@ -47,12 +47,12 @@ Question:
 "Melyik évben keszult az elso magyar nyelvi
 foldgomb?"
 
- Answer: 
+ Answer:
 
-"Az első földgömböt 1492-ben Martin Behaim készítette, amely csupán az ... 
-Magyar viszonylatban a század legjelentősebb kéziratos gömbjét Perczel László 
-... olasz nyelvű változatban szerkesztett, 25,5 és 51 cm átmérőjű földgömbjeinek 
-exportja ... Ugyanebben az évben készült el Kogutowicz közreműködésével a M. 
+"Az első földgömböt 1492-ben Martin Behaim készítette, amely csupán az ...
+Magyar viszonylatban a század legjelentősebb kéziratos gömbjét Perczel László
+... olasz nyelvű változatban szerkesztett, 25,5 és 51 cm átmérőjű földgömbjeinek
+exportja ... Ugyanebben az évben készült el Kogutowicz közreműködésével a M.
 Kir."
 
 
@@ -63,9 +63,9 @@ Question:
 
 (s"
 
- Answer: 
+ Answer:
 
-"2017. jún. 19. ... Asztrológia, Bak, Bika, Halak, Halak jegy, Ikrek, Kos, Mérleg, Mettől ... hogy mikor 
+"2017. jún. 19. ... Asztrológia, Bak, Bika, Halak, Halak jegy, Ikrek, Kos, Mérleg, Mettől ... hogy mikor
 kezdődik és mikor végződik a csillagjegy horoszkópja."
 
 
@@ -78,9 +78,9 @@ cimu operajanak tobb mint egyoras elso
 felvonasaban?
 yoy"
 
- Answer: 
+ Answer:
 
-"Richard Wagner 3 felvonásos operája. Szövegét Richard Wagner írta. ... Történik 
+"Richard Wagner 3 felvonásos operája. Szövegét Richard Wagner írta. ... Történik
 az I. felvonás 1. képe a Vénusz-hegy belsejében, a 2. kép Wartburg előtt egy ..."
 
 
@@ -89,9 +89,9 @@ Question:
 
 "Honnan szarmazik a fokhagyma?"
 
- Answer: 
+ Answer:
 
-"A fokhagyma (Allium sativum) az amarilliszfélék családjába tartozó faj. Gyógy- és 
+"A fokhagyma (Allium sativum) az amarilliszfélék családjába tartozó faj. Gyógy- és
 fűszernövény, melynek hagymája fogyasztható; felvágva erőteljes aromát ..."
 
 
@@ -100,11 +100,11 @@ Question:
 
 "Kit vagy mit NEM Sanyinak hivnak?"
 
- Answer: 
+ Answer:
 
-"Zene a nyulaknak Szia Zoli: Szia Zoli, mondd meg, hogy hívnak Nem tudom, 
-hogy hívnak a nevem Szia Mari, mondd meg, hogy hívnak Nem tudom, hogy 
-hívnak a nevem. ... Szia Sanyi, mondd meg, hogy hívnak. Nem tudom, hogy 
+"Zene a nyulaknak Szia Zoli: Szia Zoli, mondd meg, hogy hívnak Nem tudom,
+hogy hívnak a nevem Szia Mari, mondd meg, hogy hívnak Nem tudom, hogy
+hívnak a nevem. ... Szia Sanyi, mondd meg, hogy hívnak. Nem tudom, hogy
 hívnak a ..."
 
 
@@ -114,9 +114,9 @@ Question:
 "Aany méter tengerszint feletti magassagban van a
 Vereckei-hago?"
 
- Answer: 
+ Answer:
 
-"A hágó tengerszint feletti magassága 841 méter. Ma a Lvivbe tartó országút 
+"A hágó tengerszint feletti magassága 841 méter. Ma a Lvivbe tartó országút
 elkerüli. A hágóra Alsóvereckén keresztül lehet feljutni, meglehetősen rossz ..."
 
 
@@ -129,10 +129,10 @@ a+ z
 
 jet?"
 
- Answer: 
+ Answer:
 
-"2018. jún. 21. ... ... és Tim Rice Evita című, a filmvásznon is elsöprő sikert arató musicaljét. ... Rice 
-azt szerette volna, ha a darabot latin-amerikai hangulatú zene, tangó ... Me című 
+"2018. jún. 21. ... ... és Tim Rice Evita című, a filmvásznon is elsöprő sikert arató musicaljét. ... Rice
+azt szerette volna, ha a darabot latin-amerikai hangulatú zene, tangó ... Me című
 slágert Lloyd Webber és Rice kifejezetten a film számára írta."
 
 
@@ -144,12 +144,12 @@ Question:
 Hany év utan tért vissza hazajaba Robinson
 Crusoe?"
 
- Answer: 
+ Answer:
 
-"A Robinson Crusoe Daniel Defoe angol író 1719-ben megjelent regénye. ... 
-néven született és hajótörést szenved, majd huszonnyolc évet tölt egy 
-Trinidadhoz közeli szigeten. ... Crusoe Pénteknek nevezi el, az után a nap után, 
-amelyiken találkoztak. ... Crusoe és a kapitány megegyeznek, hogy Crusoe segít 
+"A Robinson Crusoe Daniel Defoe angol író 1719-ben megjelent regénye. ...
+néven született és hajótörést szenved, majd huszonnyolc évet tölt egy
+Trinidadhoz közeli szigeten. ... Crusoe Pénteknek nevezi el, az után a nap után,
+amelyiken találkoztak. ... Crusoe és a kapitány megegyeznek, hogy Crusoe segít
 visszafoglalni a ..."
 
 
@@ -158,9 +158,9 @@ Question:
 
 "Melyik kultura eposza az Edda?"
 
- Answer: 
+ Answer:
 
-"Az Edda-énekek vagy Verses Edda (korábban Sæmundur-Eddának is nevezték), 
+"Az Edda-énekek vagy Verses Edda (korábban Sæmundur-Eddának is nevezték),
 a 13. században lejegyzett óizlandi mitológiai és hősi énekgyűjtemény, ..."
 
 
@@ -169,11 +169,11 @@ Question:
 
 "Melyik telepulés fekszik a Duna partjan?"
 
- Answer: 
+ Answer:
 
-"Több jelentős település is emelkedik a partjain, köztük négy jelenlegi főváros: 
-Bécs, .... A népvándorlás korában a Duna bal partján több nomád nép váltotta 
-egymást, .... Az azóta kialakult mélyebben fekvő Rajna a Duna forrásterületéről 
+"Több jelentős település is emelkedik a partjain, köztük négy jelenlegi főváros:
+Bécs, .... A népvándorlás korában a Duna bal partján több nomád nép váltotta
+egymást, .... Az azóta kialakult mélyebben fekvő Rajna a Duna forrásterületéről
 nagy ..."
 
 
@@ -182,12 +182,12 @@ Question:
 
 "Melyik kiralyunk lépett legkésobb tronra?"
 
- Answer: 
+ Answer:
 
-"A kereszténység terjedését szigorú büntetésekkel kényszerítette ki. .... Igényét a 
-trónra a szeniorátus és a levirátus – István megözvegyült .... Bruno of Querfurt 
-erőszakos térítésről adott hírt, amiből arra következtethetünk, hogy István király 
-legkésőbb 1009-ig elfoglalta a területet. ... A király 1028-ban lépett fel Ajtony 
+"A kereszténység terjedését szigorú büntetésekkel kényszerítette ki. .... Igényét a
+trónra a szeniorátus és a levirátus – István megözvegyült .... Bruno of Querfurt
+erőszakos térítésről adott hírt, amiből arra következtethetünk, hogy István király
+legkésőbb 1009-ig elfoglalta a területet. ... A király 1028-ban lépett fel Ajtony
 ellen."
 
 
@@ -196,9 +196,9 @@ Question:
 
 "Milyen eredetu étel a taco?"
 
- Answer: 
+ Answer:
 
-"A taco egy hagyományos mexikói étel, mely kukorica- vagy búzalisztből készült 
+"A taco egy hagyományos mexikói étel, mely kukorica- vagy búzalisztből készült
 tortillába hajtott húsos töltelék (bab, guacamole ... Nevének eredete[szerkesztés]."
 
 
@@ -207,10 +207,10 @@ Question:
 
 "Mivel foglalkozo tudomanyag az epigrafia?"
 
- Answer: 
+ Answer:
 
-"A paleográfia tudománya az írás történetével foglalkozó tudományág. ... a szilárd 
-anyagokba vésett feliratokkal az epigráfia, az érméken olvasható feliratokkal .... 
+"A paleográfia tudománya az írás történetével foglalkozó tudományág. ... a szilárd
+anyagokba vésett feliratokkal az epigráfia, az érméken olvasható feliratokkal ....
 mivel nemzetállamok akkoriban még nem léteztek, legfeljebb nyelvterületek, ma
  ..."
 
@@ -221,10 +221,10 @@ Question:
 "Az alabbiak kozul melyik sportol6 NEM brit
 szinekben nyert olimpiai aranyérmet?"
 
- Answer: 
+ Answer:
 
-"A héten a szerdai Core-tréning és a csütörtöki Dinamikus jóga elmarad. Az 
-alábbi órákra jöhettek még az ünnepek előtt: Ünnepek előtti utolsó órák 
+"A héten a szerdai Core-tréning és a csütörtöki Dinamikus jóga elmarad. Az
+alábbi órákra jöhettek még az ünnepek előtt: Ünnepek előtti utolsó órák
 bővebben…"
 
 
@@ -233,12 +233,12 @@ Question:
 
 "Kik vagy mik kaphatnak Michelin-csillagot?"
 
- Answer: 
+ Answer:
 
-"A zöld színű Michelin könyveket először a második világháború előtt adták ki. ... 
-kapnak azok a kitűnő éttermek, amelyek miatt érdemes az utazóknak hosszabb 
-kitérőket is tenni. ... 2014-ben a Borkonyha étterem is egy Michelin-csillagot 
-kapott. .... Mi hivatkozik erre · Kapcsolódó változtatások · Speciális lapok · 
+"A zöld színű Michelin könyveket először a második világháború előtt adták ki. ...
+kapnak azok a kitűnő éttermek, amelyek miatt érdemes az utazóknak hosszabb
+kitérőket is tenni. ... 2014-ben a Borkonyha étterem is egy Michelin-csillagot
+kapott. .... Mi hivatkozik erre · Kapcsolódó változtatások · Speciális lapok ·
 Hivatkozás ..."
 
 
@@ -247,9 +247,9 @@ Question:
 
 "Hanyféle izomszovetiink van?"
 
- Answer: 
+ Answer:
 
-"Az izomszövet három típusát ismerjük: simaizomszövet, harántcsíkolt izomszövet 
+"Az izomszövet három típusát ismerjük: simaizomszövet, harántcsíkolt izomszövet
 és szívizomszövet. Emberben a szív és a simaizmok összehúzódásai ..."
 
 
@@ -259,9 +259,9 @@ Question:
 "Melyik varosban rendezik meg a VOLT
 Fesztivalt?"
 
- Answer: 
+ Answer:
 
-"2011-ben Európa huszonöt legnagyobb fesztiválja közül a Sziget lett az első a 
+"2011-ben Európa huszonöt legnagyobb fesztiválja közül a Sziget lett az első a
 Yourope .... A produkciós iroda rendezi a nemkülönben sikeres VOLT Fesztivált,
  ..."
 
@@ -272,9 +272,9 @@ Question:
 "Az alabbiak koziil melyik lap jelenik meg Nagy-
 Britanniaban?"
 
- Answer: 
+ Answer:
 
-"2018. nov. 15. ... A Nagy-Britanniában élő külföldiek jogosultságait illetően nem tartalmazott nagy 
+"2018. nov. 15. ... A Nagy-Britanniában élő külföldiek jogosultságait illetően nem tartalmazott nagy
 meglepetést a napokban elfogadott és szerda éjjel közzétett ..."
 
 
@@ -283,10 +283,8 @@ Question:
 
 "A het vezér kozul ki volt a vezeto?"
 
- Answer: 
+ Answer:
 
-"A hét vezér a honfoglalás idején, 895-ben a magyarok hét törzsének vezére, 
-azaz ... akik a kazárok közül csatlakoztak a magyarokhoz és akiknek egy 
+"A hét vezér a honfoglalás idején, 895-ben a magyarok hét törzsének vezére,
+azaz ... akik a kazárok közül csatlakoztak a magyarokhoz és akiknek egy
 vezetője ..."
-
-
