@@ -1,10 +1,11 @@
 # Matteo Delfavero jan.2019
 # honfoglalo.hu
 
+from colorama import Fore, Back, Style
 from time import gmtime, strftime
 from bs4 import BeautifulSoup
-from pynput import mouse
 from pathlib import Path
+from pynput import mouse
 from PIL import Image
 import pytesseract
 import pyautogui
@@ -18,11 +19,22 @@ clear = lambda: os.system('cls')
 debug = 1
 
 def log(question, answer, filename):
-    string = filename + "\nQuestion:\n\n\"" + question + "\"\n\n\nAnswer: \n\n\"" + answer + "\"\n--------------------------------------------------------------\n\n"
+    string = filename + "\nQuestion:\n\n" + question + "\n\n\nAnswer: \n\n" + answer + "\n--------------------------------------------------------------\n\n"
+    string_formated = filename + "\nQuestion:\n\n" + split(question) + "\n\n\nAnswer: \n\n" + split(answer) + "\n--------------------------------------------------------------\n\n"
     if debug:
         with open('log/log.txt', 'a', encoding='utf-8') as file:
             file.writelines(string)
-    print(string)
+    print(string_formated)
+
+def split(string):
+    formated_string = ""
+    words = string.split()
+    for word in words:
+        if (word.isdigit()):
+            formated_string = (formated_string + " " + Fore.GREEN + word + Style.RESET_ALL)
+        else:
+            formated_string = (formated_string + " " + word)
+    return formated_string
 
 def OCRimage():
     pos = (raw_pos.pressed[0], raw_pos.pressed[1], raw_pos.released[0] - raw_pos.pressed[0], raw_pos.released[1] - raw_pos.pressed[1])
@@ -34,7 +46,6 @@ def main(args):
     filename = args[1]
     google_search = "https://www.google.co.in/search?q=" + keyword
     url = BeautifulSoup(requests.get(google_search).text, "html.parser").findAll('span', {"class":"st"})
-
     for u in url:
         log(keyword, u.text, filename)
         break
@@ -53,7 +64,6 @@ def on_click(x, y, button, pressed):
             raw_pos.released[1] = y
             print("Area selected: ", raw_pos.pressed[0], raw_pos.pressed[1], raw_pos.released[0] - raw_pos.pressed[0], raw_pos.released[1] - raw_pos.pressed[1])
 
-
     if button == button.right:
         if pressed:
             pass
@@ -65,4 +75,3 @@ def on_click(x, y, button, pressed):
 if __name__ == '__main__':
     with mouse.Listener(on_click=on_click) as listener:
         listener.join()
-    #main(OCRimage())

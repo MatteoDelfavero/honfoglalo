@@ -4,10 +4,10 @@ Question:
 "Melyik megyei jogú város?"
 
 
-Answer: 
+Answer:
 
-"A megyei jogú város olyan város Magyarországon, amely – megfelelő 
-eltérésekkel – saját hatásköreként ellátja a megyei feladat- és hatásköröket. A 
+"A megyei jogú város olyan város Magyarországon, amely – megfelelő
+eltérésekkel – saját hatásköreként ellátja a megyei feladat- és hatásköröket. A
 megyei ..."
 --------------------------------------------------------------
 
@@ -17,8 +17,39 @@ Question:
 "Milyen állat Garfield?"
 
 
-Answer: 
+Answer:
 
 "[A] macska [B] mókus [C] kutya - Csak egyetlen egy kérdés, tudod rá a választ?"
 --------------------------------------------------------------
 
+honfoglalo 2019-01-13 20_54_50.jpg
+Question:
+
+"Melyik évben nyert olimpiai aranyat Steffi Graf
+német teniszező?"
+
+
+Answer:
+
+"Ország, Németország ... Ő volt az első női teniszező, aki úgy tudta egy éven belül
+megnyerni mind a négy Grand Slamet, hogy ... Az 1987 és 1990 között 13 Grand
+Slam-döntőbe jutott be sorozatban, és kilencet meg is nyert közülük. ... Az 1988-
+as szöuli olimpián egyéniben arany-, párosban bronzérmet szerzett, az 1992-es
+ ..."
+--------------------------------------------------------------
+
+honfoglalo 2019-01-13 20_55_24.jpg
+Question:
+
+"Melyik évben építették meg és helyezték üzembe
+az utolsó magyar gőzmozdonyt?"
+
+
+Answer:
+
+"A gőzmozdony a vasutakon első ízben használt géperejű vontatójármű, ... a
+járműre épített tartályokban (szertartályos gőzmozdony), vagy a mozdonyhoz
+kapcsolt külön ... a MÁVAG-ban készült gőzmozdonyt 1874. január 3-án állították
+üzembe. ... A napjainkra fennmaradt magyar gőzmozdonyok többsége
+Budapesten a ..."
+--------------------------------------------------------------
